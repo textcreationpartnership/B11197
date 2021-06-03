@@ -1,0 +1,370 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A soveraigne antidote against sabbatarian errours. Or, A decision of the chiefe doubts and difficulties touching the Sabbath Wherein these three questions (beside others coincident) are clearly and succinctly determined, viz. I. Which is the fittest name whereby to call the day of Christian weekly rest, whether Sabbath day, Lords-day, or Sunday? II. What is the meaning of that prayer, appointed to be used by our Church: Lord have mercy upon us, and encline, &amp;c. as it is repeated and applyed to the words of the fourth Commandment. III. Whether it be lawfull to use any bodily recreation on the Lords-day? and if so, what kinde of recreation? By a reverend, religious, and judicious divine.</title>
+            <author>Reverend, religious, and judicious divine.</author>
+         </titleStmt>
+         <extent>Approx. 25KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11197</idno><idno type="EEBO-CITATION">99857352</idno>
+  <idno type="VID">176820</idno>
+  <idno type="EEBO-PROQUEST">2248519401</idno>
+  <idno type="STC">STC 679</idno>
+  <idno type="STC">ESTC S122200</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99857352e"/>
+            <note>(EEBO-TCP ; phase 2, no. B11197)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 176820)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 689:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A soveraigne antidote against sabbatarian errours. Or, A decision of the chiefe doubts and difficulties touching the Sabbath Wherein these three questions (beside others coincident) are clearly and succinctly determined, viz. I. Which is the fittest name whereby to call the day of Christian weekly rest, whether Sabbath day, Lords-day, or Sunday? II. What is the meaning of that prayer, appointed to be used by our Church: Lord have mercy upon us, and encline, &amp;c. as it is repeated and applyed to the words of the fourth Commandment. III. Whether it be lawfull to use any bodily recreation on the Lords-day? and if so, what kinde of recreation? By a reverend, religious, and judicious divine.</title>
+                  <author>Reverend, religious, and judicious divine.</author>
+                  <author>Sanderson, Robert, 1587-1663, attributed name.</author>
+               </titleStmt>
+               <extent>[8], 27, [5] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Thomas Harper for Benjamin Fisher, and are to be sold at his shop in Aldersgate-street at the signe of the Talbot,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1636.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Sometimes attributed to Robert Sanderson.</note>
+                  <note>Cf. Folger catalog, which gives signatures: A-E⁴.</note>
+                  <note>Running title reads: A treatise concerning the Sabbath.</note>
+                  <note>The last two leaves bear (1) imprimatur and (2) colophon.</note>
+                  <note>Reproduction of the original in Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Sabbath --  Early works to 1800.</term>
+               <term type="topical_term">Sunday --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:176820:1"/>
+            <pb facs="tcp:176820:1"/>
+            <p>
+               <hi>A Soveraigne Antidote</hi> Against SABBATARIAN ERROVRS.</p>
+            <p>OR, A Decision of the chiefe Doubts and Difficulties touching the SABBATH.</p>
+            <p>Wherein these three Questions (beside others <hi>coincident) are clearly and succinctly</hi> determined, <hi>viz.</hi>
+               <list>
+                  <item>I. Which is the fittest Name whereby to call the Day of Christian Weekly Rest, whether <hi>Sabbath day, Lords-day,</hi> or <hi>Sunday?</hi>
+                  </item>
+                  <item>II. What is the meaning of that Prayer, appointed to be used by our Church: <hi>Lord have mercy upon us, and encline, &amp;c.</hi> as it is repeated and applyed to the words of the fourth Commandment.</item>
+                  <item>III. Whether it be lawfull to use any Bodily Recreation on the Lords-day? and if so, what kinde of Recreation?</item>
+               </list>
+            </p>
+            <p>By a Reverend, Religious, and judicious Divine.</p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>Thomas Harper</hi> for <hi>Benjamin Fisher,</hi> and are to be sold at his Shop in Aldersgate-street at the signe of the Talbot. 1636.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:176820:2"/>
+            <pb facs="tcp:176820:2"/>
+            <head>To the READER.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is a matter of great use and necessity to have now in remem<g ref="char:EOLhyphen"/>brance the admoniti<g ref="char:EOLhyphen"/>on of the Apostle, and teacher of the Gen<g ref="char:EOLhyphen"/>tiles, <hi>Remember them, which have the rule over you, obey them, and submit your selves.</hi> Hebr. 13.7.17. <hi>and esteeme them very highly in love, for their works sake,</hi> 1. Thes. 5.13. And it is not without reason; be<g ref="char:EOLhyphen"/>cause in the house of God, which is the Church of the living God, they worke the worke of the Lord, and they watch for our sake, as they that must give ac<g ref="char:EOLhyphen"/>count. 1. Tim. 3.15. 1. Cor. 16.10. Heb.
+<pb facs="tcp:176820:3"/>13.17. whose office is so honourable, that God himselfe not onely hath given a charge, that <hi>every man that will do pre<g ref="char:EOLhyphen"/>sumptuously, and will not bearken unto the Priest,</hi> the man shall be put away from Israel, but hath also severally this inobe<g ref="char:EOLhyphen"/>diency punished: <hi>The wrath of the Lord arose against his people,</hi> and gave them in<g ref="char:EOLhyphen"/>to the hands of the king of Chaldees, <hi>because they mocked the messenger of God, and despised his words,</hi> and misused his Prophets. Deut 17.12. 2. Chron. 36.16.</p>
+            <p>Yet this is the contumacy and mad<g ref="char:EOLhyphen"/>nesse of some boasters, and some un<g ref="char:EOLhyphen"/>thankfull men, which no otherwise, but as <hi>Jannes and Iambres</hi> withstood <hi>Moses,</hi> 2. Tim. 2.3. so they them, whom Di<g ref="char:EOLhyphen"/>vine Oracle hath adjudged <hi>to be worthy of double honour:</hi> 1. Tim. 5.17. saying in effect to them as <hi>Korah</hi> did (with cer<g ref="char:EOLhyphen"/>taine of the children of Israel, two hun<g ref="char:EOLhyphen"/>dred and fifty Princes) to <hi>Moses</hi> and <hi>Aa<g ref="char:EOLhyphen"/>ron; Ye take too much upon you,</hi> seeing all
+<pb facs="tcp:176820:3"/>the congregation are holy every one of them: <hi>Wherefore then lift you up your selues above the congregation of the Lord?</hi> Num. 16.3.</p>
+            <p>The experiment of these things gives every day our <hi>England,</hi> in the businesse of the Sabbatarians, who measuring themselves by themselves, and compa<g ref="char:EOLhyphen"/>ring themselves amongst themselves, even as in times past, the Scribes and Pharisees for a pretence make long pray<g ref="char:EOLhyphen"/>er, devoure widows houses, Mat. 23.14. so they creep into houses, and in a shape of sanctimony (is it through the envy, or strife, or ignorance, I cannot tell) they cast a snare upon the silly consciences of men, making concision in the Church of the Lord, and so <hi>the middle wall of partition</hi> which Christ hath broken downe, Ephes. 2.14. they do renew, and this doing, shew themselves to be the deceitfull workers.</p>
+            <p>Therefore to avoyd this confusion,
+<pb facs="tcp:176820:4"/>we bring forth in the light this discourse penned for private satisfaction, and now approved to be printed for the publicke edification of the Church. Wherein the excellent Author seemes to have imita<g ref="char:EOLhyphen"/>ted them which have the Art to make Roses grow <hi>sine spinis,</hi> without a thorne, and yet be as faire and fragrant as any other: so that his Pedalean penne deli<g ref="char:EOLhyphen"/>vered us a Theologicall decision of Sab<g ref="char:EOLhyphen"/>baths difficulties, <hi>sine spinosis &amp; paedagogi<g ref="char:EOLhyphen"/>cis argutiis;</hi> yet punctually to the minde of Christ, and the Church. Worthily therefore may it be presented to the Church of England, and to be accepted of thy favour.</p>
+         </div>
+      </front>
+      <body>
+         <div type="introduction">
+            <pb facs="tcp:176820:4"/>
+            <head>A DECISION OF THE CHIEFE Points and Difficulties touch<g ref="char:EOLhyphen"/>ing the SABBATH, written to a private Friend: and now publisht for the satisfaction of others.</head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg> Have now sent you but a naked summary of my Thoughts, con<g ref="char:EOLhyphen"/>cerning the three Questions; abstracted from all those Explanations, Reasons, Testimonies of Authors, Remo<g ref="char:EOLhyphen"/>vals
+<pb facs="tcp:176820:5"/>of Objections, and other such Enlargements as might have gi<g ref="char:EOLhyphen"/>ven further both lustre and strength thereto. Howsoever, by what I presently send, you may see what my opinion is: which I shall be ready to cleare, so farre as my understanding will serve, in any Particular, wherein you shall re<g ref="char:EOLhyphen"/>maine doubtfull: and as ready to alter, when any man shall instruct me better, if he bring good evi<g ref="char:EOLhyphen"/>dence either of Reason or Scrip<g ref="char:EOLhyphen"/>ture for what be affirmes.</p>
+            <closer>
+               <dateline>
+                  <date>March 28. 1634.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="religious_tract">
+            <pb facs="tcp:176820:5"/>
+            <p>The Questions are:
+<list>
+                  <item>1. VVHich is the fittest Name whereby to call the Day of our Christi<g ref="char:EOLhyphen"/>an weekly Rest? whether, <hi>Sab<g ref="char:EOLhyphen"/>bath, Lords-day, or Sunday?</hi>
+                  </item>
+                  <item>2. What is the meaning of that Prayer appointed to be u<g ref="char:EOLhyphen"/>sed by our Church; LORD <hi>have mercy upon us, and en<g ref="char:EOLhyphen"/>cline,</hi> &amp;c. as it is repeated after, and applyed to the words of the fourth Commandment.</item>
+                  <pb facs="tcp:176820:6"/>
+                  <item> 3. Whether it be lawfull to use any bodily Recreation upon the Lords Day? and if so, then, what kinde of Recreations?</item>
+               </list>
+            </p>
+            <div n="1" type="part">
+               <pb facs="tcp:176820:6"/>
+               <head>To the first Question.</head>
+               <p n="1">I. Concerning the Name <hi>Sabbathum,</hi> or Sabbath, I thus conceive:
+<list>
+                     <item>1. That in Scripture, Antiquitie, and all Ecclesiasticall writers, it is constant<g ref="char:EOLhyphen"/>ly appropriated to the Day of the Iews Sabbath, or Saturday, and not at all (till of late yeares) used to signifie our Lords-day, or Sunday.</item>
+                     <item>2. That to call Sunday, by the name of the Sabbath-day <hi>(rebus sic stantibus)</hi> may for some respects be allowed in the Christian Church, without any great in<g ref="char:EOLhyphen"/>convenience: and that therefore Men (otherwise sober and moderate) ought not to be censured with too much seve<g ref="char:EOLhyphen"/>rity, nor charged with Iudaisme, if some<g ref="char:EOLhyphen"/>times they so use it.</item>
+                     <pb n="6" facs="tcp:176820:7"/>
+                     <item> 3. That yet for sundry other <gap reason="illegible" extent="1 chunk">
+                           <desc>…</desc>
+                        </gap>s, it were perhaps much more expedient, if the word <hi>Sabbath</hi> (in that notion) were either not at all, or more sparingly used.</item>
+                  </list>
+               </p>
+               <p n="2">II. Concerning the Name, <hi>Dominica,</hi> or the Lords-day:
+<list>
+                     <item>1. That it was taken up in memory of our Lord Christs Resurrection, and the great worke of our Redemption accom<g ref="char:EOLhyphen"/>plisht therein.</item>
+                     <item>2. That it hath warrant from the Scripture: (<hi>Apoc.</hi> 1.10.) and hath beene of long continued use in the Christian Church, to signifie the first Day of the weeke, or Sunday.</item>
+                  </list>
+               </p>
+               <p n="3">III. Concerning the Name, <hi>Dies Solis,</hi> or Sunday:
+<list>
+                     <item>1. That it is taken from the course of the Planets, as the Names of the other Dayes are: the reason whereof is to be learned from Astronomers.</item>
+                     <pb n="7" facs="tcp:176820:7"/>
+                     <item> 2. That it hath beene long and ge<g ref="char:EOLhyphen"/>nerally used in most parts of the world.</item>
+                     <item>3. That it is not justly chargeable with Heathenisme: and that it proceed<g ref="char:EOLhyphen"/>eth from much weaknesse (at the least) if not rather superstition, that some men condemne the use of it, as prophane, heathenish, or unlawfull.</item>
+                  </list>
+               </p>
+               <p n="4">IIII. Of the fitnesse of the aforesaid three Names compar'd one with the other.</p>
+               <p>That according to the generall matter or occasion of speech, each of the three may be fitter in some respects, and more proper to be used then either of the o<g ref="char:EOLhyphen"/>ther two, <hi>viz.</hi> the Name <hi>Sabbath,</hi> when we speake of a time of Rest, indetermi<g ref="char:EOLhyphen"/>nate, and in generall, without reference to any particular Day. And the other two, when we speake determinately of that Day which is observ'd in the Chri<g ref="char:EOLhyphen"/>stian Church.</p>
+               <pb n="8" facs="tcp:176820:8"/>
+               <p> Of which two againe:
+<list>
+                     <item>1. That, of the Lords-day, is fister in Theologicall and Ecclesiasticall use.</item>
+                     <item>2. That of Sunday, in the Civill, Po<g ref="char:EOLhyphen"/>pular, and common use: yet so; as None of these three be condemned as ut<g ref="char:EOLhyphen"/>terly unlawfull, whatsoever the matter or occasion be; but that every man be left to his Christian liberty herein, so long as superiour authority restrains it not. Provided ever, that what he doth herein, he do without vanity or affe<g ref="char:EOLhyphen"/>ctation in himselfe, or uncharitable judg<g ref="char:EOLhyphen"/>ing or despising his brother, that doth otherwise then himselfe.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="2" type="part">
+               <pb n="9" facs="tcp:176820:8"/>
+               <head>To the second Question.</head>
+               <p>The words of that Prayer (<hi>Lord have mercy,</hi> &amp;c.) repeated after the fourth Commandement, evidently import (as in each of the other ten.)</p>
+               <p n="1"> I. An acknowledgement of three things: <hi>viz.</hi>
+                  <list>
+                     <item>1. That the words of that particular Commandment containe a law where<g ref="char:EOLhyphen"/>to we are subject.</item>
+                     <item>2. That it is our bounden dutie to endeavour with our utmost power to keepe the said law.</item>
+                     <item>3. That our naughty hearts have of themselves no inclination to keepe it, till God by the worke of his grace encline them thereto.</item>
+                  </list>
+               </p>
+               <p n="2">II. A double supplication: <hi>viz.</hi>
+                  <list>
+                     <item>1 For Mercy in respect of the time
+<pb n="10" facs="tcp:176820:9"/>past, because we have faild of our boun<g ref="char:EOLhyphen"/>den duty heretofore.</item>
+                     <item>2 For Grace, in respect of the time to come, that we may performe our duties better hereafter.</item>
+                  </list>
+               </p>
+               <p>But how farre forth, the words of the fourth Commandement are to be taken as a Law binding Christians, and by what authority they have that binding power, is the maine difficulty.</p>
+               <p>For the resolution whereof, it may suffice every sober-minded Christian to understand the Prayer appointed by the Church, in that meaning which the words immediately import; and without over curious enquiry into those things which are more disputable, to beleeve these few points following, which ought to be taken as certaine, and grant<g ref="char:EOLhyphen"/>ed, amongst Christians: <hi>viz.</hi>
+                  <list>
+                     <item>1 That no part of the Law, deliver<g ref="char:EOLhyphen"/>ed by <hi>Moses</hi> to the Iews, doth binde Chri<g ref="char:EOLhyphen"/>stians under the Gospell, as by vertue of
+<pb n="11" facs="tcp:176820:9"/>that Delivery, no not the 10. Comman<g ref="char:EOLhyphen"/>dements themselves: but least of all, the Fourth, which all confesse to be (at least) in some part, ceremoniall.</item>
+                     <item>2 That the particular determination of the time, to the seventh day of the weeke, was ceremoniall; and so the obl<gap reason="illegible" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>
+                        <g ref="char:EOLhyphen"/>gation of the fourth Commandement in that respect (though it were <hi>Juris Di<g ref="char:EOLhyphen"/>vini positivi</hi> to the Iew) is ceased, toge<g ref="char:EOLhyphen"/>ther with other legall Ceremonies since the publishing of the Gospell, and binds not Christian consciences.</item>
+                     <item>3 That the substance of the fourth Commandement in the generall, (<hi>viz.</hi> that some certaine time should be set a<g ref="char:EOLhyphen"/>part from secular employments, to be sanctifide to an holy rest for the better attending on Gods publick and solemne worship) is Morall and perpetuall; and of Divine Right, as a branch of the law of Nature, whereto Christians under the Gospel are still bound.</item>
+                     <pb n="12" facs="tcp:176820:10"/>
+                     <item> 4 That, <hi>de facto,</hi> the Lords-day or Sunday is the time appointed to us, for that purpose, by such sufficient Autho<g ref="char:EOLhyphen"/>rity, as we stand bound in conscience to obey: <hi>Absque hoc,</hi> whether that Autho<g ref="char:EOLhyphen"/>rity be immediately Divine, or mediate<g ref="char:EOLhyphen"/>ly, through the power of the Church.</item>
+                  </list>
+               </p>
+               <p>This is sufficient to regulate the judge<g ref="char:EOLhyphen"/>ment and conscience of every ordinary Christian: yet, it is not unlawfull for Scholars soberly and fairely to argue and debate (a little further) matters which are questionable, for the better finding out of the truth. And</p>
+               <p>The points are two: <hi>viz.</hi>
+                  <list>
+                     <item>1 Concerning the observation of a weekly <hi>Sabbath,</hi> whether it be of neces<g ref="char:EOLhyphen"/>sitie, to keepe one day of every seven: and by what right we are tyed so to do.</item>
+                     <item>2 Concerning the change of the Iewish <hi>Sabbath</hi> into the Lords-day, and by what Authority it was done.</item>
+                  </list>
+               </p>
+               <p n="1">
+                  <pb n="13" facs="tcp:176820:10"/> I. Touching the observation of a weekly <hi>Sabbath,</hi> there are these three different opinions: <hi>viz.</hi>
+                  <list>
+                     <item>1. That it is <hi>de jure Naturali,</hi> as a branch properly of the Law of Nature.</item>
+                     <item>2 That it is properly and directly <hi>de jure Divino positivo,</hi> establisht by Gods expresse positive ordinance in his word.</item>
+                     <item>3 That it is meerly <hi>de jure Humano &amp; Ecclesiastico,</hi> introduced by Authoritie, and establisht by the custome and con<g ref="char:EOLhyphen"/>sent of the Catholicke Church.</item>
+                  </list>
+               </p>
+               <p>Touching which three opinions, I leave it to the judicious to consider,
+<list>
+                     <item>1 Whether the last of them might not happe to be of evill consequence, by lea<g ref="char:EOLhyphen"/>ving it in the power of every particular Church, at her pleasure to change the old proportion of one in seven (which hath continued ever since <hi>Moses</hi>) into any other greater or lesse proportion of time.</item>
+                     <pb n="14" facs="tcp:176820:11"/>
+                     <item> 2 Whether the two former opinions (though they indeed avoid that incon<g ref="char:EOLhyphen"/>venience) do not yet stand on such weak grounds otherwise, that they are by ma<g ref="char:EOLhyphen"/>ny degrees more improbable then the third.</item>
+                     <item>3 Whether a fourth opinion going in the middle way might not be proposde with greater probability, and entertain'd with better safety then any of the for<g ref="char:EOLhyphen"/>mer three: <hi>viz.</hi> That the keeping holy of one day in seven, is of Divine Posi<g ref="char:EOLhyphen"/>tive Right; taking <hi>jus Divinum</hi> in a large signification, not for that which is pri<g ref="char:EOLhyphen"/>marily, properly, and directly such, ac<g ref="char:EOLhyphen"/>cording to the tenour of the second opi<g ref="char:EOLhyphen"/>nion: but including withall, that which is secundarily, consequently, and analo<g ref="char:EOLhyphen"/>gically such.</item>
+                  </list>
+               </p>
+               <p>For the better understanding where<g ref="char:EOLhyphen"/>of, we are to consider,
+<list>
+                     <item>1 That those things are <hi>de jure Divi<g ref="char:EOLhyphen"/>no</hi> in the first and strict sense, which ei<g ref="char:EOLhyphen"/>ther
+<pb n="15" facs="tcp:176820:11"/>are enjoynd by the expresse ordi<g ref="char:EOLhyphen"/>nance and command of God in his holy word: or may be deduced therefrom, by necessarie, evident, and demonstrative Illation. In which sense, there are not very many things <hi>de Iure Divino,</hi> in the New Testament.</item>
+                     <item>2 That for a thing to be <hi>de jure Di<g ref="char:EOLhyphen"/>vino</hi> in the latter and larger sense, it suffi<g ref="char:EOLhyphen"/>ceth, that it may be by humane discourse upon Reasons of congruity, probably deduced from the Word of God, as a thing most convenient to be observed by all such as desire unfainedly to order their wayes according to Gods holy will.</item>
+                     <item>3 This kinde of <hi>jus Divinum</hi> may be reasonably discern'd by the concur<g ref="char:EOLhyphen"/>rence of all or the chiefest of these foure things following: <hi>viz.</hi>
+                        <list>
+                           <item>1 A foundation of equity for the thing, in generall, either in the Law of Nature, or by vertue of Divine Institu<g ref="char:EOLhyphen"/>tion.</item>
+                           <pb n="16" facs="tcp:176820:12"/>
+                           <item> 2 An Analogy held for the particular determination, with such laws and dire<g ref="char:EOLhyphen"/>ctions as were given to the Iewish peo<g ref="char:EOLhyphen"/>ple in the old Testament, so farre as the Reason of equity holds alike.</item>
+                           <item>3 Some probable insinuations there<g ref="char:EOLhyphen"/>of in the Scripture of the new Testa<g ref="char:EOLhyphen"/>ment.</item>
+                           <item>4 The continued practise of the Chri<g ref="char:EOLhyphen"/>stian Church, so farre as the condition of the times in the seuerall Ages thereof would permit: for, <hi>Lex currit cum praxi.</hi>
+                           </item>
+                        </list>
+                     </item>
+                     <item>Fourthly, that all these do in some measure concurre for the observation of a weekly <hi>Sabbath:</hi> as upon examina<g ref="char:EOLhyphen"/>tion of the severall particulars, will easily appeare.</item>
+                  </list>
+               </p>
+               <p>This distinction of <hi>Ius Divinum</hi> is to be observed the rather, because it may be of very good use (if rightly understood and applyed.)
+<list>
+                     <item>1 For cutting off, the most materiall instances usually brought by the Ro<g ref="char:EOLhyphen"/>mish
+<pb n="17" facs="tcp:176820:12"/>party for maintenance of their unwritten traditions.</item>
+                     <item>
+                        <p>Secondly, for the clearing of some, and silencing of other some controver<g ref="char:EOLhyphen"/>sies in the Church disputed <hi>Pro &amp; Con</hi> with much heat, <hi>viz.</hi>
+                           <list>
+                              <item>1 The government of the Church by Bishops.</item>
+                              <item>2 The distinction of Bishops, Priests, and Deacons.</item>
+                              <item>3 The exercise of Ecclesiasticall cen<g ref="char:EOLhyphen"/>sures, as suspension, excommunication, &amp;c.</item>
+                              <item>4 The building and consecrating of Churches for Divine service.</item>
+                              <item>5 The assembly of Synods upon needfull occasions, for maintenance of the truth, and setling of Church-af<g ref="char:EOLhyphen"/>faires.</item>
+                              <item>6 Prohibition of Marriages to be made within certaine degrees of consan<g ref="char:EOLhyphen"/>guinity and affinity.</item>
+                              <item>7 Baptizing of Infants born of Chri<g ref="char:EOLhyphen"/>stian
+<pb n="18" facs="tcp:176820:13"/>Parents.</item>
+                              <item>8 <p>Maintenance of the Clergie by Tythes. And sundry other things.</p>
+                                 <p>Some of which (have beene doubted of) in that prime and proper sense, but yet all or most of them in my under<g ref="char:EOLhyphen"/>standing seeme at least to be <hi>de Iure Di<g ref="char:EOLhyphen"/>vino,</hi> in the latter and larger sence and signification.</p>
+                              </item>
+                           </list>
+                        </p>
+                     </item>
+                     <item>Thirdly, For the right bounding of the Churches power, that she be neither denyed her lawfull liberty in some things, nor yet assume to her selfe a grea<g ref="char:EOLhyphen"/>ter power then of right belongs to her, in other some: For,
+<list>
+                           <item>1 In things that are meerly <hi>de Iure Humano,</hi> every particular Church hath power in her selfe from time to time to order and alter them at her pleasure, and may exercise that Power, when shee thinks fit.</item>
+                           <item>2 Things that are <hi>de iure Divino</hi> in that first sense, the universall Church
+<pb n="19" facs="tcp:176820:13"/>may not (much lesse any Particular) at all take upon her to alter: but must ob<g ref="char:EOLhyphen"/>serve them inviolably, whatever neces<g ref="char:EOLhyphen"/>sities or distresses she be put to.</item>
+                           <item>3 Things that are <hi>de iure Divino</hi> in the latter sense, every particular Church (but much more the universall) hath power to alter in case of necessitie: but the exercise of that power is so limited to extraordinary cases, that it may not be safe for her at all to exercise it, unlesse it be for the avoiding of mighty inconve<g ref="char:EOLhyphen"/>niences not otherwise to be avoided.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+               <p n="2">II. As for the other controversed Point, touching the change of the Day from the last of the weeke or Saturday (which was the Iews <hi>Sabbath</hi>) to the first of the Weeke, or Sunday, which is our Lords<g ref="char:EOLhyphen"/>day: my opinion is, that the observation of the <hi>Lords day</hi> among Christians, in<g ref="char:EOLhyphen"/>stead of the Iewish <hi>Sabbath;</hi>
+                  <list>
+                     <pb n="20" facs="tcp:176820:14"/>
+                     <item>1 Is not grounded on any Command given by Christ to his Apostles.</item>
+                     <item>2 Nor yet upon any Apostolicke In<g ref="char:EOLhyphen"/>stitution given by the Apostles to the Churches in that behalfe: but;</item>
+                     <item>3 That it was taken up by the succee<g ref="char:EOLhyphen"/>ding Church, partly in imitation of some of the Apostles who used, especially, in the Churches of the Gentiles; (for in the Churches of the Iews the old <hi>Sab<g ref="char:EOLhyphen"/>bath</hi> was still observed) to celebrate their holy Assemblies the first Day of the weeke in honour of Christ and his Resurrection: and partly for avoiding of Iudaisme, wherewith false teachers in those first times were ever and anon attempting to enthrall the Christian Church.</item>
+                     <item>4 That the observation of the <hi>Lords<g ref="char:EOLhyphen"/>day</hi> having beene confirmed by so many Constitutions, Ecclesiasticall, and Impe<g ref="char:EOLhyphen"/>riall; and having, withall, continued with such uniforme consent through
+<pb n="21" facs="tcp:176820:14"/>the whole Christian world for so many Ages ever since the Apostles times, the Church (not to dispute what she may or may not do <hi>ex plenitudine potestatis</hi>) ought not to attempt the altering of it, to any other Day of the weeke.</item>
+                  </list>
+               </p>
+            </div>
+            <div n="3" type="part">
+               <pb facs="tcp:176820:15"/>
+               <pb n="23" facs="tcp:176820:15"/>
+               <head>To the third Question: <hi>Touching Recreations.</hi>
+               </head>
+               <p>IN this matter much need not to be said, there being little difficultie in it; and his Majesties last Declara<g ref="char:EOLhyphen"/>tion in that behalfe, having put it past Disputation: I say then;
+<list>
+                     <item>First, for the thing. No man can rea<g ref="char:EOLhyphen"/>sonably condemne the moderate use of lawfull Recreations on the <hi>Lords-day,</hi> as simply <hi>&amp; de toto genere</hi> unlaw<g ref="char:EOLhyphen"/>full.</item>
+                     <item>Secondly, for the kinde: Albeit there can be no certaine Rules given herein
+<pb n="24" facs="tcp:176820:16"/>(as in most indifferent things it comes to passe) by reason of the infinite varie<g ref="char:EOLhyphen"/>tie of circumstances, to fit with all par<g ref="char:EOLhyphen"/>ticular cases; but that still, much must be left to private Discretion: yet, for some Directions in this Point, respect would be had (in the choice of our Recrea<g ref="char:EOLhyphen"/>tions.)
+<list>
+                           <item>1 To the publicke Lawes of the State: Such Games or sports as are by Law prohibited, though in themselves otherwise lawfull, being unlawfull to them that are under obedience of the Law.</item>
+                           <item>2 To the condition of the Person. Walking and Discoursing which to men of liberall education, is a pleasant Re<g ref="char:EOLhyphen"/>creation, is no way delightsome to the ruder sort of people, who scarce account any thing a sport which is not loud and boisterous.</item>
+                           <item>3 To the effects of the Recreations themselves: Those, being the meetest
+<pb n="25" facs="tcp:176820:16"/>to be used, which give the best Refresh<g ref="char:EOLhyphen"/>ing to the Bodie, and leave the least im<g ref="char:EOLhyphen"/>pression in the Minde. In this respect, Shooting, Leaping, pitching the Barre, Stoole-ball, &amp;c. are rather to be chosen then Dicing, and Carding.</item>
+                        </list>
+                     </item>
+                     <item>Thirdly, for the Vse. That men would be exhorted to use their Recrea<g ref="char:EOLhyphen"/>tions and Pastimes on the <hi>Lords-day</hi> in godly and commendable sort: For which purpose, amongst others, these Cautions would be remembred.
+<list>
+                           <item>1 That they be used with great mo<g ref="char:EOLhyphen"/>deration, as at all other times, so espe<g ref="char:EOLhyphen"/>cially, and much more on the <hi>Lords-Day.</hi>
+                           </item>
+                           <item>2 That they be used at seasonable times, not in time of Divine Ser<g ref="char:EOLhyphen"/>vice.</item>
+                           <item>3 That they be so used, as they may rather make men fitter for Gods Ser<g ref="char:EOLhyphen"/>vice the rest of the Day, and for the
+<pb n="26" facs="tcp:176820:17"/>Works of their Vocation the rest of the weeke, then any way hinder or disable them therto by over-wearying the Bo<g ref="char:EOLhyphen"/>die, or immoderately affecting the Minde.</item>
+                           <item>4 That they use them not doubt<g ref="char:EOLhyphen"/>ingly: for whatsoever is not of Faith, is Sinne. Hee therefore that is not satis<g ref="char:EOLhyphen"/>fied in his owne judgement, that he may lawfully, and without sinne, use bodily Recreations on the <hi>Lords-day,</hi> ought by all meanes to forbeare the Vse thereof, lest he sinne against his owne conscience.</item>
+                           <item>5 That they bee severer towards themselves then towards others, in the use of their Christian libertie herein: not making their owne opinion or pra<g ref="char:EOLhyphen"/>ctise, a Rule to their Brethren. In this, as in all other indifferent things, a wise and charitable Man will in godly wise<g ref="char:EOLhyphen"/>dome denie himselfe many times the
+<pb n="27" facs="tcp:176820:17"/>Vse of that Libertie, which in godly Charitie hee dare not denie to his Bro<g ref="char:EOLhyphen"/>ther.</item>
+                        </list>
+                     </item>
+                  </list>
+               </p>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div xml:lang="lat" type="imprimatur">
+            <pb facs="tcp:176820:18"/>
+            <pb facs="tcp:176820:18"/>
+            <p>PErlegi brevem hunc Tractatum de Sab<g ref="char:EOLhyphen"/>bato, in quo nihil reperio sanae fidei, aut bonis moribus contrarium.</p>
+            <closer>
+               <signed>Tho. Weekes: R. P. Ep. Lond. Cap. Domest.</signed>
+            </closer>
+         </div>
+         <div type="colophon">
+            <pb facs="tcp:176820:19"/>
+            <pb facs="tcp:176820:19"/>
+            <p>LONDON, Printed by THOMAS HARPER for <hi>Benjamin Fisher,</hi> and are to be sold at his Shop in Aldersgate-street at the signe of the Talbot. 1636.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
